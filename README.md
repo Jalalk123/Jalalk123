@@ -1,4 +1,22 @@
-<h2 align="center">¡Hola 👋! Mi nombre es Jalal Kaddoura, bienvendido a mi Github. ¡<br><br>Este espacio está dedicado a la Inteligencia Artificial, donde se recopila toda la información, aprendizaje y aplicaciones relacionadas con esta área. En el repositorio de Inteligencia Artificial 2025, correspondiente al Cuatrimestre II de ese año, podrás encontrar tareas, apuntes y resúmenes, códigos fuente de prácticas y proyectos, laboratorios, así como experimentos y pruebas basados en lo aprendido en IA, además de mi portafolio personal de asignaciones. <br><br>El objetivo es mantener organizada toda la información del curso y mostrar los avances en el aprendizaje de técnicas y herramientas relacionadas con la Inteligencia Artificial.</h2>
+<h2 align="center">¡Hola 👋! Soy Jalal Kaddoura</h2>
+
+<p align="center">
+  Bienvenido a mi perfil de GitHub. Soy estudiante de Ingeniería Biomédica con gran interés en el área de Inteligencia Artificial. Este espacio está dedicado a compartir y documentar mi aprendizaje, prácticas y proyectos desarrollados durante el curso de Inteligencia Artificial del Cuatrimestre II 2025.
+</p>
+
+<p align="center">
+  Aquí podrás encontrar tareas, apuntes y resúmenes, códigos fuente de prácticas, proyectos, laboratorios, experimentos y pruebas relacionadas con IA. También incluiré mi portafolio personal de asignaciones.
+</p>
+
+<p align="center">
+  El objetivo de este repositorio es mantener organizada toda la información del curso, además de demostrar mis avances en el uso de herramientas y técnicas de Inteligencia Artificial.
+</p>
+
+<p align="center">
+  <a href="https://jalalk123.github.io/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20portafolio%20de%20proyectos-Click%20aquí-blue?style=for-the-badge" alt="Ver Portafolio de Proyectos">
+  </a>
+</p>
 
 ###
 
