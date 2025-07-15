@@ -1,4 +1,4 @@
-<h2 align="center">¡Hola 👋! Soy Jalal Kaddoura</h2>
+<h2 align="center">¡Hola! Soy Jalal Kaddoura</h2>
 
 <p align="center">
   Bienvenido a mi perfil de GitHub. Soy estudiante de Ingeniería Biomédica con gran interés en el área de Inteligencia Artificial. Este espacio está dedicado a compartir y documentar mi aprendizaje, prácticas y proyectos desarrollados durante el curso de Inteligencia Artificial del Cuatrimestre II 2025.
